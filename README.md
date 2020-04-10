@@ -4,8 +4,8 @@ This is my first upload to Github or, to be honest, any online site ever. It is 
 
 The code is simple. Once you run it, it will display
 
-'''
+```
 Hello there
 
 General Kenobi
-'''
+```
