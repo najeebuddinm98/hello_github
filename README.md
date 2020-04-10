@@ -8,3 +8,13 @@ Hello there
 
 General Kenobi
 ```
+
+To run this in your Windows command line, open **Command Prompt** by typing cmd and pressing enter in the *Run dialog box* (Win key+R).  
+Then, change into the directory were you have stored this script by using the command
+```
+cd <file path>
+```
+Then, tyoe the following and press enter
+```
+python hello_there.py
+```
