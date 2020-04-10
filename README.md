@@ -14,7 +14,7 @@ Then, change into the directory were you have stored this script by using the co
 ```
 cd <file path>
 ```
-Then, tyoe the following and press enter
+Then, type the following and press enter
 ```
 python hello_there.py
 ```
